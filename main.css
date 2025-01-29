@@ -14,6 +14,7 @@
     width: 500px;
     height: 300px;
     background-color: lightgrey;
+    margin-bottom: 10px;
 }
 
 .ice img {
@@ -27,6 +28,7 @@
     grid-template-rows: 1fr 1fr;
     width: 500px;
     background-color: green;
+    margin-bottom: 10px;
 }
 
 #columns-text {
@@ -50,6 +52,7 @@
     grid-template-columns: 1fr 3fr;
     width: 500px;
     background-color: lightgray;
+    margin-bottom: 10px;
 }
 
 .gridSix p {
